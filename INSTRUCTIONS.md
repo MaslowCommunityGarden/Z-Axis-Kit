@@ -1,7 +1,8 @@
-Edit this file to add assembly instructions
+The complete Z-Axis kit for the Maslow CNC. Automates the cut depth of the router bit.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+Includes: Z-axis motor, z-axis power cable, 2 L-brackets, Coupler, all necessary hardware.
+
+Best suited for Ridgid R22002 router (Home Depot)
 
 
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Purchase at [MakerMadeCNC](https://www.makermadecnc.com/product/z-axis-kit-shaft-coupler-mounting-brackets-motor-power-cable/)
