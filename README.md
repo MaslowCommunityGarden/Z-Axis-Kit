@@ -9,7 +9,7 @@ Product includes:
 * Embedded dust-collection duct with 2in PVC elbow
 * Acrylic dust-collection duct cover (should remove paper top upon arrival)
 * Lacquered top finish to protect against wear, moisture, and dust. Guaranteed compatible with any router that works with the M2 kit.  Bricks not included.
-* 
+
 Dimensions:
 * Diameter- 18in (457mm)
 * Thickness- 5/8in (15.9mm) 
