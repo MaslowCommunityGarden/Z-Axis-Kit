@@ -1,4 +1,4 @@
-# Original M2 Dust-Collecting Sled
+# M2 Dust Collection Sled
 
 Our brand new custom milled, screen-printed sled created for the M2 and backwards compatible with Maslow. Featuring multiple layers of cross-stacked and lacquered, solid wood with a slick finish.  This sled provides a smooth movement across your work surface, while collecting dust and chips in its built-in dust collection port.
 
@@ -14,6 +14,6 @@ Dimensions:
 * Diameter- 18in (457mm)
 * Thickness- 5/8in (15.9mm) 
 
-Head over to [Maker Made](http://www.makermade.com/shop) to purchase.
+Head over to [MakerMade](http://www.makermade.com/shop) to purchase.
 
 
