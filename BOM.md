@@ -1,1 +1,1 @@
-Purchase at [Maker Made](https://www.makermade.com/shop)
+Purchase at [MakerMade](https://www.makermade.com/shop)
