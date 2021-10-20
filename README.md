@@ -17,5 +17,3 @@ Dimensions:
 * Thickness- 5/8in (15.9mm) 
 
 Head over to [MakerMade](http://www.makermade.com/shop) to purchase.
-
-
