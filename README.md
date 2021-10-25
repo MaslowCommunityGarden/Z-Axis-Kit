@@ -1,5 +1,7 @@
 # M2 Dust Collection Sled
 
+![Z Axis Kit](https://github.com/MaslowCommunityGarden/Z-Axis-Kit/blob/master/mainpicture.jpg)
+
 Our brand new custom milled, screen-printed sled created for the M2 and backwards compatible with Maslow. Featuring multiple layers of cross-stacked and lacquered, solid wood with a slick finish.  This sled provides a smooth movement across your work surface, while collecting dust and chips in its built-in dust collection port.
 
 Product includes:
@@ -15,5 +17,3 @@ Dimensions:
 * Thickness- 5/8in (15.9mm) 
 
 Head over to [MakerMade](http://www.makermade.com/shop) to purchase.
-
-
